@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Gameplay Preview](Screenshots/gameplay.gif)
+
 This repository contains my completed version of the **Unity Learn – Get Started with the Unity Editor** tutorial.
 
 The purpose of this project is to build a strong foundation in **Unity editor workflows, project structure, and core concepts**, and to mark the starting point of my transition into game development. This project is intentionally focused on fundamentals rather than gameplay complexity.
